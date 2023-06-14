@@ -1,0 +1,6 @@
+page.1 = FLUIDTEMPLATE
+page.1 {
+    templateRootPaths.0 = EXT:fluidbug/Resources/Private/Templates/
+    partialRootPaths.0 = EXT:fluidbug/Resources/Private/Partials/
+    templateName = Default
+}
